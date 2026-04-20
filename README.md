@@ -2,8 +2,8 @@
 ## Aspiring IT Business Analyst | ICT Applications Development Student
 
 Cape Town, South Africa  
-Email: 23xxxxx@mycput.ac.za  
-Mobile: 078xxxxxx  
+Email: 23XXXXX@mycput.ac.za  
+Mobile: 078XXXXXX 
 LinkedIn: https://www.linkedin.com/in/asenathi-nini-ba47212b7  
 
 ---
@@ -71,13 +71,77 @@ CPUT | 2024 – Present
 
 ## Tools & Technologies
 - Microsoft Excel  
-- GitHub  
+- GitHub
+- IntelliJ
+- Apache NetBeans
 - VS Code  
-- MySQL (basic)  
+- MySQL  
 - PowerPoint  
+
+---
+
+## References
+
+Available upon request. 
 
 ---
 
 ## Mock Interview Video
 
-[Watch my Mock Interview](https://youtube.com/shorts/rsdd2h89kO0?feature=share)
+[Watch my Mock Interview] (https://youtube.com/shorts/rsdd2h89kO0?feature=share)
+
+---
+
+## Reflection: Coding in Markdown 
+
+Situation:
+- I was required to create a digital portfolio using Markdown on GitHub.
+  
+Task:
+- My goal was to learn Markdown and present my CV and portfolio professionally.
+  
+Action:
+- I researched Markdown syntax, practiced formatting content, and structured my portfolio clearly using headings, lists, and links.
+  
+Result:
+- I successfully created a well-structured and readable portfolio, improving my ability to present information in a technical environment.
+
+---
+
+## Reflection: Mock Interview
+
+Situation:
+- I had to do a Mock up Interview as a part of my last year assignments.
+  
+Task:
+- The objective was to improve my confidence and communication skills in a professional setting.
+
+Action:
+- I prepared answers, practiced common interview questions, and presented myself professionally during the interview.
+
+Result:
+- I gained confidence, improved my communication skills, and identified areas for improvement in how I present my skills and experience.
+
+---
+
+## Reflection: GitHub Pages 
+
+Situation:
+- I needed to publish my portfolio using GitHub Pages.
+
+Task:
+- The goal was to arrange my portfolio as a live website accessible via a link.
+  
+Action:
+- I configured GitHub Pages, selected the correct branch, and ensured my README was properly formatted for web viewing.
+  
+Result:
+- I successfully published my portfolio online, gaining practical experience in implementing and sharing web-based content.
+
+---
+
+## Key Strengths
+- Analytical mindset
+- Ability to translate problems into structured solutions
+- Strong interest in business and technology alignment
+- Continuous learner with adaptability
