@@ -1,88 +1,128 @@
-# Asenathi Nini - Portfolio
-## Aspiring IT Business Analyst | ICT Applications Development Student
+# Asenathi Nini
 
-Cape Town, South Africa  
-Email: 23XXXXX@mycput.ac.za  
-Mobile: 078XXXXXX 
-LinkedIn: https://www.linkedin.com/in/asenathi-nini-ba47212b7  
+### Aspiring Software Developer | ICT Applications Development Student
 
----
-
-## Professional Summary
-Driven ICT Applications Development student with a strong focus on Business Analysis and IT Governance. Possesses a solid foundation in programming and full-stack development concepts, allowing effective collaboration with technical teams. Passionate about analysing business needs, improving systems, and bridging the gap between business and technology.
-
----
-
-## Education
-
-**Diploma in ICT: Applications Development**  
-Cape Peninsula University of Technology (CPUT), Cape Town  
-2023 – Present  
-
-**National Senior Certificate (NSC)**  
-Spes Bona High School, Cape Town  
-Completed: 2022  
+#### Address 
+ Woodstock, Cape Town, Western Cape  
+#### Phone
+ 078 973 3493  
+#### Email
+ asenathinini87@gmail.com  
+#### LinkedIn
+ [LinkedIn](https://www.linkedin.com/in/asenathi-nini-ba47212b7)  
+#### GitHub
+ [GitHub](https://github.com/asenathinini)
 
 ---
 
-## Work Experience
+## Objective
 
-### Freelance & Practical Experience  
-2025 – Present  
+Driven ICT Applications Development student with a strong foundation in software development, programming, and problem-solving.
 
-- Provided Business Analysis tutoring to 2 students (Term 1)  
-- Assisted in the front-end development of a business website  
-- Gained exposure to full-stack development concepts through practical collaboration  
-- Applied problem-solving skills to real-world and simulated business scenarios  
+Skilled in:
 
----
+- Java
+- SQL
+- HTML
+- CSS
+- Object-Oriented Programming (OOP)
 
-### Student Projects – ICT Applications Development  
-CPUT | 2024 – Present  
+Passionate about building efficient software solutions, learning modern technologies, and collaborating in development teams to create user-focused applications.
 
-- Analysed business scenarios and proposed system solutions  
-- Designed workflows and documented system requirements  
-- Collaborated in teams to present structured project outcomes  
+Currently seeking opportunities to gain practical industry experience and continue improving technical skills.
 
 ---
 
-## Skills
+# Experience
 
-### Business & Analytical  
-- Business Analysis  
-- Requirements Gathering  
-- Process Analysis & Improvement  
-- SDLC Understanding  
+## Freelance & Practical Development Experience  
+**2023 – Present**
 
-### Technical  
-- SQL (basic to intermediate)  
-- HTML, CSS (front-end basics)  
-- Java (programming fundamentals)  
-- Full-stack development concepts (front-end, back-end, databases)  
-- Microsoft Excel (data analysis)  
+- Developed front-end and back-end features for web and software applications
+- Built and enhanced website and application functionality
+- Collaborated on software development projects
+- Debugged and resolved technical issues
+- Provided academic mentoring and technical guidance to first-year students in programming fundamentals
 
-### Soft Skills  
-- Communication & Presentation  
-- Team Collaboration  
-- Attention to Detail  
-- Time Management  
+### Business Website Development
+
+- Created responsive web pages using HTML and CSS
+- Designed and implemented UI components
+- Improved website structure and user experience
+
+### Java & Database Projects | CPUT
+
+- Developed Java applications using OOP principles
+- Designed and managed MySQL databases
+- Wrote and optimized SQL queries
+- Resolved software defects and improved system reliability
 
 ---
+
+# Education
+
+## Diploma in ICT: Applications Development  
+### Cape Peninsula University of Technology (CPUT)  
+**2023 – Present**
+
+---
+
+## National Senior Certificate (NSC)  
+### Spes Bona High School  
+**Completed: 2022**
+
+---
+
+# Technical Skills
+
+## Programming & Development
+
+- Java
+- JavaScript
+- SQL
+- HTML
+- CSS
+- Object-Oriented Programming (OOP)
+- Full-Stack Web Development
 
 ## Tools & Technologies
-- Microsoft Excel  
+
 - GitHub
-- IntelliJ
+- MySQL
+- IntelliJ IDEA
 - Apache NetBeans
-- VS Code  
-- MySQL  
-- PowerPoint  
+- Visual Studio Code
+
+## Core Knowledge
+
+- Full-Stack Development (Front-end & Back-end)
+- Software Development Life Cycle (SDLC)
+- Database Design & Management
+- API / Backend Logic Fundamentals
+- Debugging & Problem Solving
+- Software Documentation
 
 ---
 
-## References
+#  Soft Skills
 
-Available upon request. 
+- Team Collaboration
+- Communication
+- Time Management
+- Adaptability
+- Attention to Detail
+- Problem Solving
+
+---
+
+#  References
+
+Available upon request.
+
+---
+
+ [Download My CV](./Asenathi.CV.pdf)
+
 
 ---
 
@@ -138,10 +178,6 @@ Action:
 Result:
 - I successfully published my portfolio online, gaining practical experience in implementing and sharing web-based content.
 
----
 
-## Key Strengths
-- Analytical mindset
-- Ability to translate problems into structured solutions
-- Strong interest in business and technology alignment
-- Continuous learner with adaptability
+
+
