@@ -128,7 +128,7 @@ Available upon request.
 
 ## Mock Interview Video
 
-[Watch my Mock Interview] (https://youtube.com/shorts/rsdd2h89kO0?feature=share)
+[Watch my Mock Interview] https://youtube.com/shorts/rsdd2h89kO0?feature=share
 
 ---
 
